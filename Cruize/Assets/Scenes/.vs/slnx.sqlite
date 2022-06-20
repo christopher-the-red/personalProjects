@@ -1,1 +1,1 @@
-Placeholder
+SELECT * FROM 'FileScannerCache' LIMIT 0,30
